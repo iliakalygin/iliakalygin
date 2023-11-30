@@ -8,4 +8,3 @@ my skills in C#, Python and HTML/CSS/JS.
 
  Find out more about me and my projects on [my website](https://www.kalygin.ch/)!
 
-kasjdlfalsdfj
