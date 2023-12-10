@@ -1,4 +1,4 @@
-# Hi there 👋
+# About me
 
 
 I'm Ilia, a dedicated student with a passion for technology and programming, currently studying computer science application
