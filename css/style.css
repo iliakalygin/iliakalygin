@@ -562,4 +562,6 @@ header {
     transform: scale(1.1);
 }
 
-
+a:visited {
+    color: var(--clr-dark);
+}

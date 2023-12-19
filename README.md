@@ -6,4 +6,4 @@ development at the IBZ school in Basel. There I am deepening my knowledge in C#,
 I have gained extensive experience with Python in my spare time. On my GitHub profile I show various projects that demonstrate
 my skills in C#, Python and HTML/CSS/JS.
 
- Find out more about me and my projects on [my website](https://www.kalygin.ch/)!
+ Find out more about me and my projects on [my website](https://iliakalygin.github.io/iliakalygin)!
