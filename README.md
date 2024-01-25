@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilia and I'm a Computer Science Student from Switzerland!</h2>
+<h2 align="left">About me</h2>
 
 ###
 
