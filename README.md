@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Ilia, a dedicated student with a passion for technology and programming, currently doing my intership as application developer at ABB.</br>On my GitHub profile I show various projects that demonstrate my skills.</p>
+<p align="left">Hi, I'm Ilia passionate technology enthusiast and aspiring application developer. Currently pursuing my internship at ABB, I enjoy exploring programming and solving real-world challenges. My GitHub showcases projects that reflect my growing skills and interests in software development.</p>
 
 ###
 
