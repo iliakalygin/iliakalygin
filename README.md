@@ -1,8 +1,10 @@
-<h2 align="left">About me</h2>
+<h2 align="left">ABOUT</h2>
 
 ###
 
 <p align="left">Hi, I'm Ilia passionate technology enthusiast and aspiring application developer. Currently pursuing my internship at ABB, I enjoy exploring programming and solving real-world challenges. My GitHub showcases projects that reflect my growing skills and interests in software development.</p>
+
+<!--
 
 ###
 
@@ -37,3 +39,5 @@
 </div>
 
 ###
+
+-->
