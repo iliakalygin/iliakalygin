@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">Hi, I'm Ilia, passionate technology enthusiast and aspiring application developer. Currently pursuing my internship at ABB, I enjoy exploring programming and solving real-world challenges. My GitHub showcases projects that reflect my growing skills and interests in software development.</p>
+<p align="left">Hi, I'm Ilia, passionate technology enthusiast and aspiring application developer. Currently pursuing my internship at ABB, I enjoy exploring programming and solving real-world challenges. My GitHub showcases projects that reflect my growing skills and interests in software development. Find out more on my website<a href="https://www.iliak.dev/" target="_blank">iliak.dev</a></p>
 
-<a href="https://www.iliak.dev/" target="_blank">Find out more</a>
+
 
 
 <!--
