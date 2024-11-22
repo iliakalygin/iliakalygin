@@ -60,7 +60,8 @@
                 <p>
                     Python, DevOps, <br>
                     C# ,  SQL , HTML,<br>
-                    CSS , Linux, SSMS
+                    CSS , Linux, SSMS, VS <br>
+                    VS-Code, MS-Office <br>
                 </p>
             </div>
             <!--/service-->
@@ -110,61 +111,87 @@
     </section>
 
     <!-- My work -->
-    <section class="my-work" id="work">
+    <section class="projects" id="work">
         <h2 class="section__title section__title--work">Projects</h2>
         <p class="section__subtitle section__subtitle--work">Personal, Work and School Projects/Repositories made while learning languages and frameworks</p>
         <div class="portfolio">
             <!-- Portfolio project -->
+            <style>
+                @font-face {
+                    font-family: 'NerdFont';
+                    src: url('fonts/SymbolsNerdFont-Regular.ttf') format('truetype');
+                }
+                .icon {
+                    font-family: 'NerdFont';
+                    font-size: 32px;
+                }
 
+            </style>
             
-            <!--
-            <a href="https://github.com/iliakalygin/Password-Generator" target="_blank" class="portfolio__item">
-                <img src="./img/Password-Generator.png" class="portfolio__img">
-                <figcaption style="background-color: aliceblue; font-style: none;"><b>Password Generator</b></figcaption>
-            </a>
-            -->
-            <a href="https://github.com/iliakalygin/" target="_blank" class="portfolio__item">
-                <img src="" class="portfolio__img">
-                <figcaption style="background-color: aliceblue; font-style: none;"><b></b></figcaption>
-            </a>
-            <a href="https://github.com/iliakalygin/Ski-Service-Management-PA-M295/" target="_blank" class="portfolio__item">
-                <img src="./img/ski-service.png" class="portfolio__img">
-                <figcaption style="background-color: aliceblue; font-style: none;"><b>Ski-Service-Management (C# Web API)</b></figcaption>
-            </a>
-            <a href="https://github.com/iliakalygin/ChatBot" target="_blank" class="portfolio__item">
-                <img src="./img/ChatBot2.png" class="portfolio__img">
-                <figcaption style="background-color: aliceblue; font-style: none;"><b>ChatBot (C# WPF)</b></figcaption>
-            </a>
-            <a href="https://github.com/iliakalygin/Ticketsystem-Docker" target="_blank" class="portfolio__item">
-                <img src="./img/docker.jpg" class="portfolio__img">
-                <figcaption style="background-color: aliceblue; font-style: none;"><b>Ticketsystem-Docker (Web)</b></figcaption>
-            </a>
-            <a href="https://github.com/iliakalygin/" target="_blank" class="portfolio__item">
-                <img src="" class="portfolio__img">
-                <figcaption style="background-color: aliceblue; font-style: none;"><b></b></figcaption>
-            </a>
-            
-        </div>
+            <div class="project-box">
+                <h3>Factorio Dynamic Inventory Size Mod</h3>
+                <div class="technologies">
+                    <span class="icon"></span>
+                </div>
+                <p>Factorio mod that allows to adjust inventory size directly in-game. Featuring a interface and shortcut button, it integrates seamlessly into Factorio for quick and flexible inventory management. </p>
+                <!-- <a href="https://github.com/username/project" target="_blank" class="github-link">View on GitHub</a> -->
+                <a href="https://github.com/iliakalygin/DynamicInventorySizeMod" class="btn_project" target="_blank"> Code <i
+                    class="fab fa-github"></i></a>
+            </div>
 
-        </p>
-        <a href="https://github.com/stars/iliakalygin/lists/projects" class="btn" target="_blank"> View More on Github <i
-                class="fab fa-github"></i></a>
+            <div class="project-box">
+                <h3>Logs Plotting Application</h3>
+                <div class="technologies">
+                    <span class="icon"></span>
+                    <span class="icon"></span>
+                </div>
+                <p>Python-based application built using the NiceGUI and Plotly framework. It allows users to upload CSV files, visualize data in interactive plots, and manage signal visibility across multiple plots. </p>
+                <!-- <a href="https://github.com/username/project" target="_blank" class="github-link">View on GitHub</a> -->
+                <a href="https://github.com/iliakalygin/LogsPlottingApplication" class="btn_project" target="_blank"> Code <i
+                    class="fab fa-github"></i></a>
+            </div>
+
+            <div class="project-box">
+                <h3>Ticketsystem Docker</h3>
+                <div class="technologies">
+                    <span class="icon"></span>
+                    <span class="icon"></span>
+                    <span class="icon"></span>
+                    <span class="icon"></span>
+                </div>
+                <p>Simple ticket system with Docker. Includes a web frontend, a MySQL database and a Node.js backend, each packaged as a Docker container for deployment. </p>
+                <!-- <a href="https://github.com/username/project" target="_blank" class="github-link">View on GitHub</a> -->
+                <a href="https://github.com/iliakalygin/Ticketsystem-Docker" class="btn_project" target="_blank"> Code <i
+                    class="fab fa-github"></i></a>
+            </div>
+
+            <div class="project-box">
+                <h3>Chat Bot</h3>
+                <div class="technologies">
+                    <span class="icon"></span>
+                </div>
+                <p>Custom-built ChatBot application developed in C# WPF. The primary objective of this project was to learn and gain experience with C# and WPF.</p>
+                <!-- <a href="https://github.com/username/project" target="_blank" class="github-link">View on GitHub</a> -->
+                <a href="https://github.com/iliakalygin/ChatBot" class="btn_project" target="_blank"> Code <i
+                    class="fab fa-github"></i></a>
+            </div>
+            
 
     </section>
     <!-- <br> -->
 
     <footer class="footer">
-        <a href="mailto:ilia.kalygin@student.ipso.ch" class="footer__link">ilia.kalygin@ch.abb.com</a>
+        <a href="mailto:ilia.kalygin@ch.abb.com" class="footer__link">ilia.kalygin@ch.abb.com</a>
         <ul class="social-list">
             <li class="social-list__item">
                 <a class="social-list__link" href="https://www.linkedin.com/in/ilia-kalygin/" target="_blank">
-                    <i class="fab fa-linkedin"></i>
+                    <i class="fab fa-linkedin" style="color: #9DB2BF;"></i>
                 </a>
             </li>
             </li>
             <li class="social-list__item"><a class="social-list__link" href="https://github.com/iliakalygin"
                     target="_blank">
-                    <i class="fab fa-github"></i>
+                    <i class="fab fa-github" style="color: #9DB2BF;"></i>
                 </a>
             </li>
             
